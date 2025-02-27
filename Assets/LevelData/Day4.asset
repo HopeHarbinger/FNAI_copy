@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b94f0177150605a4d9a09780cbbfce8e, type: 3}
+  m_Name: Day4
+  m_EditorClassIdentifier: 
+  hours:
+  - {fileID: 11400000, guid: 074639584a4407d4aa3808c201da3eeb, type: 2}
+  - {fileID: 11400000, guid: 706847794e27c4847a2d93ddb125cb95, type: 2}
+  - {fileID: 11400000, guid: 2d895f6507c40f14b9215cb914714851, type: 2}
+  - {fileID: 11400000, guid: 2a437cd5bc32cc64e9b01c51970f5896, type: 2}
+  - {fileID: 11400000, guid: e1d5967d682b7024fbbdaad33c40d6c7, type: 2}
+  - {fileID: 11400000, guid: dbe4e9ee96e2c2f4a9c4d4bfae52fd34, type: 2}
+  hourLenghts: 320000003200000032000000320000003200000032000000
+  powerUsageFactor: 0.3
+  excessPower: 0
+  playPhoneCall: 0
